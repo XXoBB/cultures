@@ -1,5 +1,4 @@
 # cultures
-存储图片
+* 存储图片
 
-
-![](https://github.com/XXoBB/cultures/blob/master/mying.PNG)
+* qusetion1：The Class-Path manifest attribute in XXXX.jar referenced one or more files that do not exist
